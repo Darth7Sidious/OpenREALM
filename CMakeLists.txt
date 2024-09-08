@@ -22,7 +22,7 @@ project(OpenREALM)
 
 set(OpenREALM_VERSION "1.0.0")
 set(OpenREALM_VERSION_NUMBER "1000")
-
+find_package(fbow REQUIRED)
 
 ################################################################################
 # Paths
