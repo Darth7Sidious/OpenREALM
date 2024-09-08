@@ -135,7 +135,7 @@ fi
 
 # G2O
 cd ~ && mkdir g2o && cd g2o
-git clone https://github.com/RainerKuemmerle/g2o.git
+https://github.com/Darth7Sidious/g2o.git
 cd g2o
 git checkout 9b41a4ea5ade8e1250b9c1b279f3a9c098811b5a
 mkdir build && cd build
