@@ -155,7 +155,7 @@ sudo make install
 
 # OpenVSLAM
 cd ~ && mkdir openvslam && cd openvslam
-git clone https://github.com/laxnpander/openvslam.git
+git clone https://github.com/Darth7Sidious/openvslam.git
 cd openvslam
 git submodule init && git submodule update
 mkdir build && cd build
